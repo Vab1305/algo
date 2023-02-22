@@ -101,9 +101,7 @@ $ git commit -m "add any comment"
 - Navigate to the original repository and make a pull request
 
 
-## Project administrators ✨
 
-<!-- Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)): -->
 
 
 
